@@ -20,9 +20,15 @@ Programming Language: Python
 Libraries and Frameworks:
 
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
+
 Data Storage: CSV files
-Development Environment: Jupyter Notebook or any Python IDE
+
+Development Environment: Jupyter Notebook 
