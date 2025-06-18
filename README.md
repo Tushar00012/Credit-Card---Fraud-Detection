@@ -1,34 +1,56 @@
-Credit Card Fraud Detection
+# 💳 Credit Card Fraud Detection
 
+## 🔍 Overview  
+This project aims to detect fraudulent transactions from credit card datasets using advanced **machine learning techniques**. The objective is to build and evaluate models that can accurately classify transactions as **legitimate** or **fraudulent**, helping financial institutions and customers protect themselves against financial crimes.
 
-Overview
+---
 
-The Credit Card Fraud Detection project aims to identify fraudulent transactions in credit card datasets using advanced machine learning techniques. The goal is to develop a model that can accurately classify transactions as legitimate or fraudulent, helping financial institutions and customers prevent fraud and secure their financial transactions.
+## 🚀 Features
 
-Features
+- **🔄 Data Preprocessing**  
+  Cleaned and prepared transaction data for model training.
 
-Data Preprocessing: Clean and preprocess credit card transaction data for model training.
-Feature Engineering: Extract and create relevant features to enhance model performance.
-Model Training: Train and evaluate various machine learning models including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting.
-Fraud Detection: Predict and classify transactions as fraudulent or legitimate.
-Visualization: Provide insights and visualizations of the data and model performance.
-Performance Metrics: Evaluate model accuracy, precision, recall, F1 score, and ROC AUC.
-Technologies Used
+- **🧠 Feature Engineering**  
+  Constructed and selected key features to improve model performance.
 
-Programming Language: Python
+- **📊 Model Training & Evaluation**  
+  Trained and evaluated multiple machine learning models including:  
+  - Logistic Regression  
+  - Decision Tree  
+  - Random Forest  
+  - Gradient Boosting
 
-Libraries and Frameworks:
+- **✅ Fraud Detection**  
+  Classified transactions as fraudulent or legitimate.
 
-Pandas
+- **📈 Data Visualization**  
+  Provided insightful visualizations of both data and model performance.
 
-NumPy
+- **📉 Performance Metrics**  
+  Evaluated models using:  
+  - Accuracy  
+  - Precision  
+  - Recall  
+  - F1 Score  
+  - ROC-AUC
 
-Scikit-learn
+---
 
-Matplotlib
+## 🛠️ Technologies Used
 
-Seaborn
+- **Programming Language**  
+  - Python
 
-Data Storage: CSV files
+- **Libraries & Frameworks**  
+  - Pandas  
+  - NumPy  
+  - Scikit-learn  
+  - Matplotlib  
+  - Seaborn
 
-Development Environment: Jupyter Notebook 
+- **Data Storage**  
+  - CSV Files
+
+- **Development Environment**  
+  - Jupyter Notebook
+
